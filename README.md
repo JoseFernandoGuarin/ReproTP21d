@@ -1,6 +1,7 @@
 # ReproTP21d
 Calculadora de tasas reproductivas
 
+https://josefernandoguarin.github.io/ReproTP21d
 Reproducción Lechera FCA
 Facultad de Ciencias Agrarias · Universidad de Antioquia
 
